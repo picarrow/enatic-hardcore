@@ -1,0 +1,1 @@
+Players can spawn by a respawn anchor when they die in the Nether

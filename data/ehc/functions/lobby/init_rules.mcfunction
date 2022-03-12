@@ -1,0 +1,12 @@
+gamerule disableRaids true
+gamerule doEntityDrops false
+gamerule doFireTick false
+gamerule doInsomnia false
+gamerule doMobLoot false
+gamerule doMobSpawning false
+gamerule doPatrolSpawning false
+gamerule doTileDrops false
+gamerule doTraderSpawning false
+gamerule doWeatherCycle false
+gamerule mobGriefing false
+gamerule randomTickSpeed 0
